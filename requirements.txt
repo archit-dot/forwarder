@@ -1,0 +1,4 @@
+aiogram>=3.31,<4
+Telethon>=1.45,<2
+python-dotenv>=1.1,<2
+cryptography>=45,<47

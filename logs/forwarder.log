@@ -1,0 +1,853 @@
+2026-09-23 13:00:32,379 | INFO | main | Public multi-user controller starting
+2026-09-23 13:00:32,379 | INFO | aiogram.dispatcher | Start polling
+2026-09-23 13:00:33,369 | INFO | aiogram.dispatcher | Run polling for bot @forwardcunt_bot id=8824170005 - 'Forward Controller'
+2026-09-23 13:00:39,428 | INFO | aiogram.event | Update id=337590161 is handled. Duration 1125 ms by bot id=8824170005
+2026-09-23 13:00:42,892 | INFO | aiogram.event | Update id=337590162 is handled. Duration 1031 ms by bot id=8824170005
+2026-09-23 13:00:45,438 | INFO | aiogram.event | Update id=337590163 is handled. Duration 1015 ms by bot id=8824170005
+2026-09-23 13:00:52,226 | INFO | telethon.network.mtprotosender | Connecting to 149.154.167.51:443/TcpFull...
+2026-09-23 13:00:55,278 | INFO | telethon.network.mtprotosender | Connection to 149.154.167.51:443/TcpFull complete!
+2026-09-23 13:00:56,417 | INFO | telethon.client.users | Phone migrated to 5
+2026-09-23 13:00:56,730 | INFO | telethon.client.telegrambaseclient | Reconnecting to new data center 5
+2026-09-23 13:00:57,076 | INFO | telethon.network.mtprotosender | Disconnecting from 149.154.167.51:443/TcpFull...
+2026-09-23 13:00:57,076 | INFO | telethon.network.mtprotosender | Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-09-23 13:00:57,076 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.163:443/TcpFull...
+2026-09-23 13:00:58,956 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.163:443/TcpFull complete!
+2026-09-23 13:01:00,510 | INFO | aiogram.event | Update id=337590164 is handled. Duration 8297 ms by bot id=8824170005
+2026-09-23 13:01:07,198 | INFO | aiogram.event | Update id=337590165 is handled. Duration 1000 ms by bot id=8824170005
+2026-09-23 13:01:08,182 | INFO | aiogram.event | Update id=337590166 is handled. Duration 1640 ms by bot id=8824170005
+2026-09-23 13:01:09,710 | INFO | aiogram.event | Update id=337590167 is handled. Duration 984 ms by bot id=8824170005
+2026-09-23 13:01:10,439 | INFO | aiogram.event | Update id=337590168 is handled. Duration 984 ms by bot id=8824170005
+2026-09-23 13:01:11,043 | INFO | aiogram.event | Update id=337590169 is handled. Duration 938 ms by bot id=8824170005
+2026-09-23 13:01:13,942 | INFO | aiogram.event | Update id=337590170 is handled. Duration 1344 ms by bot id=8824170005
+2026-09-23 13:01:23,987 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.163:443/TcpFull...
+2026-09-23 13:01:24,003 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.163:443/TcpFull complete!
+2026-09-23 13:01:24,003 | INFO | controller | user 7166943981 connected Telegram account id=7166943981
+2026-09-23 13:01:24,594 | INFO | aiogram.event | Update id=337590171 is handled. Duration 2077 ms by bot id=8824170005
+2026-09-23 13:01:29,791 | INFO | aiogram.event | Update id=337590172 is handled. Duration 1000 ms by bot id=8824170005
+2026-09-23 13:01:36,756 | INFO | aiogram.event | Update id=337590173 is handled. Duration 1016 ms by bot id=8824170005
+2026-09-23 13:01:39,823 | INFO | aiogram.event | Update id=337590174 is handled. Duration 515 ms by bot id=8824170005
+2026-09-23 13:01:49,471 | INFO | aiogram.event | Update id=337590175 is handled. Duration 937 ms by bot id=8824170005
+2026-09-23 13:01:51,895 | INFO | aiogram.event | Update id=337590176 is handled. Duration 1030 ms by bot id=8824170005
+2026-09-23 13:01:54,641 | INFO | aiogram.event | Update id=337590177 is handled. Duration 531 ms by bot id=8824170005
+2026-09-23 13:01:57,389 | INFO | aiogram.event | Update id=337590178 is handled. Duration 843 ms by bot id=8824170005
+2026-09-23 13:01:59,686 | INFO | aiogram.event | Update id=337590179 is handled. Duration 1031 ms by bot id=8824170005
+2026-09-23 13:02:10,329 | INFO | aiogram.event | Update id=337590180 is handled. Duration 609 ms by bot id=8824170005
+2026-09-23 13:02:13,551 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.163:443/TcpFull...
+2026-09-23 13:02:13,682 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.163:443/TcpFull complete!
+2026-09-23 13:02:15,499 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.163:443/TcpFull...
+2026-09-23 13:02:15,499 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.163:443/TcpFull complete!
+2026-09-23 13:02:16,995 | INFO | aiogram.event | Update id=337590181 is handled. Duration 3891 ms by bot id=8824170005
+2026-09-23 13:02:29,377 | INFO | aiogram.event | Update id=337590182 is handled. Duration 1391 ms by bot id=8824170005
+2026-09-23 13:03:54,997 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.163:443/TcpFull...
+2026-09-23 13:03:55,111 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.163:443/TcpFull complete!
+2026-09-23 13:03:57,727 | INFO | forwarder | user=7166943981 forwarder running
+2026-09-23 13:03:59,066 | INFO | aiogram.event | Update id=337590183 is handled. Duration 4578 ms by bot id=8824170005
+2026-09-23 13:04:13,357 | INFO | forwarder | user=7166943981 source message id=18 chat=-1004460745058 media=True grouped=14321190823537157
+2026-09-23 13:04:13,363 | INFO | forwarder | user=7166943981 source message id=19 chat=-1004460745058 media=True grouped=14321190823537157
+2026-09-23 13:04:14,045 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:04:14,367 | ERROR | forwarder | user=7166943981 send failed
+Traceback (most recent call last):
+  File "C:\Users\archi\Desktop\public_forwarder\app\services\forwarder.py", line 30, in _send
+    if media: await self.client.send_file(dest,media,caption=caption or None)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\telethon\client\uploads.py", line 438, in send_file
+    result += await self._send_album(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\telethon\client\uploads.py", line 572, in _send_album
+    result = await self(request)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\telethon\client\users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\telethon\client\users.py", line 92, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.ChatAdminRequiredError: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMultiMediaRequest)
+2026-09-23 13:04:14,427 | INFO | forwarder | user=7166943981 source message id=20 chat=-1004460745058 media=True grouped=None
+2026-09-23 13:04:14,771 | ERROR | forwarder | user=7166943981 send failed
+Traceback (most recent call last):
+  File "C:\Users\archi\Desktop\public_forwarder\app\services\forwarder.py", line 26, in _send
+    if first.media: await self.client.send_file(dest,first.media,caption=caption or None)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\telethon\client\uploads.py", line 484, in send_file
+    return self._get_response_message(request, await self(request), entity)
+                                               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\telethon\client\users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\telethon\client\users.py", line 92, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.ChatAdminRequiredError: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMediaRequest)
+2026-09-23 13:04:20,150 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:04:25,417 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:04:47,262 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:04:59,546 | INFO | forwarder | user=7166943981 source message id=9 chat=-1004381621399 media=True grouped=14321191191571141
+2026-09-23 13:04:59,546 | INFO | forwarder | user=7166943981 source message id=10 chat=-1004381621399 media=True grouped=14321191191571141
+2026-09-23 13:04:59,562 | INFO | forwarder | user=7166943981 source message id=11 chat=-1004381621399 media=True grouped=14321191191571141
+2026-09-23 13:04:59,568 | INFO | forwarder | user=7166943981 source message id=12 chat=-1004381621399 media=True grouped=14321191191571141
+2026-09-23 13:04:59,571 | INFO | forwarder | user=7166943981 source message id=13 chat=-1004381621399 media=True grouped=14321191191571141
+2026-09-23 13:04:59,579 | INFO | forwarder | user=7166943981 source message id=14 chat=-1004381621399 media=True grouped=14321191191571141
+2026-09-23 13:04:59,825 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:05:00,931 | INFO | forwarder | user=7166943981 forwarded count=6
+2026-09-23 13:05:13,269 | INFO | forwarder | user=7166943981 source message id=21 chat=-1004460745058 media=True grouped=14321191302682645
+2026-09-23 13:05:13,269 | INFO | forwarder | user=7166943981 source message id=22 chat=-1004460745058 media=True grouped=14321191302682645
+2026-09-23 13:05:13,269 | INFO | forwarder | user=7166943981 source message id=23 chat=-1004460745058 media=True grouped=None
+2026-09-23 13:05:13,535 | INFO | forwarder | user=7166943981 forwarded count=1
+2026-09-23 13:05:13,952 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:05:14,495 | INFO | forwarder | user=7166943981 forwarded count=2
+2026-09-23 13:05:16,726 | INFO | forwarder | user=7166943981 source message id=24 chat=-1004460745058 media=False grouped=None
+2026-09-23 13:05:16,993 | INFO | forwarder | user=7166943981 forwarded count=1
+2026-09-23 13:05:25,951 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:05:29,478 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:05:34,668 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:05:39,509 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:05:43,231 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:05:52,003 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:05:58,812 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:06:01,425 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] The network connection was aborted by the local system
+2026-09-23 13:06:01,457 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8824170005)
+2026-09-23 13:06:13,389 | INFO | aiogram.dispatcher | Connection established (tryings = 1, bot id = 8824170005)
+2026-09-23 13:06:23,727 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:06:47,574 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:07:09,608 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:07:21,210 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:07:36,671 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:08:01,644 | INFO | forwarder | user=7166943981 source message id=25 chat=-1004460745058 media=False grouped=None
+2026-09-23 13:08:01,944 | INFO | forwarder | user=7166943981 forwarded count=1
+2026-09-23 13:08:14,506 | INFO | forwarder | user=7166943981 source message id=26 chat=-1004460745058 media=True grouped=None
+2026-09-23 13:08:14,783 | INFO | forwarder | user=7166943981 forwarded count=1
+2026-09-23 13:08:21,780 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:08:37,967 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:08:56,974 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:09:26,713 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:09:35,212 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:09:54,510 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:10:14,876 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:11:19,506 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:11:25,570 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:11:32,647 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:11:42,369 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:11:50,750 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 13:12:00,690 | INFO | telethon.client.updates | Got difference for channel 3977044658 updates
+2026-09-23 13:12:04,098 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-23 13:12:04,098 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-09-23 13:12:04,114 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8824170005)
+2026-09-23 13:12:04,376 | INFO | aiogram.dispatcher | Polling stopped for bot @forwardcunt_bot id=8824170005 - 'Forward Controller'
+2026-09-23 13:12:04,376 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.163:443/TcpFull...
+2026-09-23 13:12:04,376 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.163:443/TcpFull complete!
+2026-09-23 13:12:29,153 | INFO | main | Public multi-user controller starting
+2026-09-23 13:12:29,153 | INFO | aiogram.dispatcher | Start polling
+2026-09-23 13:12:30,178 | INFO | aiogram.dispatcher | Run polling for bot @forwardcunt_bot id=8824170005 - 'Forward Controller'
+2026-09-23 13:14:20,705 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 121] The semaphore timeout period has expired
+2026-09-23 13:14:20,705 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8824170005)
+2026-09-23 13:14:21,710 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:14:21,717 | WARNING | aiogram.dispatcher | Sleep for 1.282049 seconds and try again... (tryings = 1, bot id = 8824170005)
+2026-09-23 13:14:23,013 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:14:23,016 | WARNING | aiogram.dispatcher | Sleep for 1.697220 seconds and try again... (tryings = 2, bot id = 8824170005)
+2026-09-23 13:14:24,718 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:14:24,718 | WARNING | aiogram.dispatcher | Sleep for 2.122791 seconds and try again... (tryings = 3, bot id = 8824170005)
+2026-09-23 13:14:26,849 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:14:26,849 | WARNING | aiogram.dispatcher | Sleep for 2.741675 seconds and try again... (tryings = 4, bot id = 8824170005)
+2026-09-23 13:14:29,607 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:14:29,609 | WARNING | aiogram.dispatcher | Sleep for 3.487110 seconds and try again... (tryings = 5, bot id = 8824170005)
+2026-09-23 13:14:33,101 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:14:33,106 | WARNING | aiogram.dispatcher | Sleep for 4.651181 seconds and try again... (tryings = 6, bot id = 8824170005)
+2026-09-23 13:14:37,770 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:14:37,770 | WARNING | aiogram.dispatcher | Sleep for 4.926296 seconds and try again... (tryings = 7, bot id = 8824170005)
+2026-09-23 13:14:42,710 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:14:42,718 | WARNING | aiogram.dispatcher | Sleep for 4.966776 seconds and try again... (tryings = 8, bot id = 8824170005)
+2026-09-23 13:14:47,688 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:14:47,704 | WARNING | aiogram.dispatcher | Sleep for 4.949071 seconds and try again... (tryings = 9, bot id = 8824170005)
+2026-09-23 13:14:52,673 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:14:52,685 | WARNING | aiogram.dispatcher | Sleep for 5.098585 seconds and try again... (tryings = 10, bot id = 8824170005)
+2026-09-23 13:14:57,799 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:14:57,803 | WARNING | aiogram.dispatcher | Sleep for 4.841733 seconds and try again... (tryings = 11, bot id = 8824170005)
+2026-09-23 13:15:02,660 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:15:02,660 | WARNING | aiogram.dispatcher | Sleep for 4.956726 seconds and try again... (tryings = 12, bot id = 8824170005)
+2026-09-23 13:15:07,622 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:15:07,622 | WARNING | aiogram.dispatcher | Sleep for 5.024690 seconds and try again... (tryings = 13, bot id = 8824170005)
+2026-09-23 13:15:12,654 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:15:12,654 | WARNING | aiogram.dispatcher | Sleep for 4.809841 seconds and try again... (tryings = 14, bot id = 8824170005)
+2026-09-23 13:15:17,470 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:15:17,472 | WARNING | aiogram.dispatcher | Sleep for 5.060872 seconds and try again... (tryings = 15, bot id = 8824170005)
+2026-09-23 13:15:22,536 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:15:22,536 | WARNING | aiogram.dispatcher | Sleep for 4.937217 seconds and try again... (tryings = 16, bot id = 8824170005)
+2026-09-23 13:15:27,481 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:15:27,481 | WARNING | aiogram.dispatcher | Sleep for 5.062155 seconds and try again... (tryings = 17, bot id = 8824170005)
+2026-09-23 13:15:32,567 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:15:32,569 | WARNING | aiogram.dispatcher | Sleep for 4.882310 seconds and try again... (tryings = 18, bot id = 8824170005)
+2026-09-23 13:15:37,467 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:15:37,467 | WARNING | aiogram.dispatcher | Sleep for 5.022468 seconds and try again... (tryings = 19, bot id = 8824170005)
+2026-09-23 13:15:42,511 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:15:42,511 | WARNING | aiogram.dispatcher | Sleep for 5.028654 seconds and try again... (tryings = 20, bot id = 8824170005)
+2026-09-23 13:15:47,544 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:15:47,544 | WARNING | aiogram.dispatcher | Sleep for 5.110525 seconds and try again... (tryings = 21, bot id = 8824170005)
+2026-09-23 13:15:52,672 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:15:52,674 | WARNING | aiogram.dispatcher | Sleep for 4.999580 seconds and try again... (tryings = 22, bot id = 8824170005)
+2026-09-23 13:15:57,679 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:15:57,679 | WARNING | aiogram.dispatcher | Sleep for 4.972541 seconds and try again... (tryings = 23, bot id = 8824170005)
+2026-09-23 13:16:02,665 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:16:02,665 | WARNING | aiogram.dispatcher | Sleep for 5.085288 seconds and try again... (tryings = 24, bot id = 8824170005)
+2026-09-23 13:16:07,773 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:16:07,773 | WARNING | aiogram.dispatcher | Sleep for 4.851254 seconds and try again... (tryings = 25, bot id = 8824170005)
+2026-09-23 13:16:12,632 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:16:12,632 | WARNING | aiogram.dispatcher | Sleep for 4.919484 seconds and try again... (tryings = 26, bot id = 8824170005)
+2026-09-23 13:16:17,557 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:16:17,557 | WARNING | aiogram.dispatcher | Sleep for 5.067623 seconds and try again... (tryings = 27, bot id = 8824170005)
+2026-09-23 13:16:22,626 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:16:22,626 | WARNING | aiogram.dispatcher | Sleep for 5.054671 seconds and try again... (tryings = 28, bot id = 8824170005)
+2026-09-23 13:16:27,691 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:16:27,691 | WARNING | aiogram.dispatcher | Sleep for 5.002421 seconds and try again... (tryings = 29, bot id = 8824170005)
+2026-09-23 13:16:32,708 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:16:32,708 | WARNING | aiogram.dispatcher | Sleep for 4.885571 seconds and try again... (tryings = 30, bot id = 8824170005)
+2026-09-23 13:16:37,601 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:16:37,601 | WARNING | aiogram.dispatcher | Sleep for 5.049704 seconds and try again... (tryings = 31, bot id = 8824170005)
+2026-09-23 13:16:42,652 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:16:42,652 | WARNING | aiogram.dispatcher | Sleep for 5.061933 seconds and try again... (tryings = 32, bot id = 8824170005)
+2026-09-23 13:16:47,719 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:16:47,719 | WARNING | aiogram.dispatcher | Sleep for 4.971453 seconds and try again... (tryings = 33, bot id = 8824170005)
+2026-09-23 13:16:52,696 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:16:52,696 | WARNING | aiogram.dispatcher | Sleep for 5.114057 seconds and try again... (tryings = 34, bot id = 8824170005)
+2026-09-23 13:16:57,813 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:16:57,813 | WARNING | aiogram.dispatcher | Sleep for 4.963887 seconds and try again... (tryings = 35, bot id = 8824170005)
+2026-09-23 13:17:02,784 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:17:02,784 | WARNING | aiogram.dispatcher | Sleep for 5.000925 seconds and try again... (tryings = 36, bot id = 8824170005)
+2026-09-23 13:17:07,795 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:17:07,795 | WARNING | aiogram.dispatcher | Sleep for 4.928963 seconds and try again... (tryings = 37, bot id = 8824170005)
+2026-09-23 13:17:12,731 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:17:12,731 | WARNING | aiogram.dispatcher | Sleep for 5.084991 seconds and try again... (tryings = 38, bot id = 8824170005)
+2026-09-23 13:17:17,827 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:17:17,827 | WARNING | aiogram.dispatcher | Sleep for 4.910481 seconds and try again... (tryings = 39, bot id = 8824170005)
+2026-09-23 13:17:22,741 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-09-23 13:17:22,741 | WARNING | aiogram.dispatcher | Sleep for 4.901521 seconds and try again... (tryings = 40, bot id = 8824170005)
+2026-09-23 14:02:51,727 | INFO | main | Public multi-user controller starting
+2026-09-23 14:02:51,727 | INFO | aiogram.dispatcher | Start polling
+2026-09-23 14:02:54,223 | INFO | aiogram.dispatcher | Run polling for bot @forwardcunt_bot id=8824170005 - 'Forward Controller'
+2026-09-23 14:03:13,184 | INFO | aiogram.event | Update id=337590184 is handled. Duration 1139 ms by bot id=8824170005
+2026-09-23 14:03:17,265 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.163:443/TcpFull...
+2026-09-23 14:03:17,485 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.163:443/TcpFull complete!
+2026-09-23 14:03:20,722 | INFO | forwarder | user=7166943981 forwarder running
+2026-09-23 14:03:22,160 | INFO | aiogram.event | Update id=337590185 is handled. Duration 5500 ms by bot id=8824170005
+2026-09-23 14:03:33,493 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 14:03:41,848 | INFO | forwarder | user=7166943981 source message id=29 chat=-1004460745058 media=False grouped=None
+2026-09-23 14:03:41,848 | INFO | forwarder | user=7166943981 skipped text-only message id=29
+2026-09-23 14:03:52,101 | INFO | forwarder | user=7166943981 source message id=30 chat=-1004460745058 media=True grouped=None
+2026-09-23 14:03:52,453 | INFO | forwarder | user=7166943981 forwarded count=1
+2026-09-23 14:04:01,877 | INFO | forwarder | user=7166943981 source message id=15 chat=-1004381621399 media=True grouped=14321219529232981
+2026-09-23 14:04:01,877 | INFO | forwarder | user=7166943981 source message id=16 chat=-1004381621399 media=True grouped=14321219529232981
+2026-09-23 14:04:01,893 | INFO | forwarder | user=7166943981 source message id=17 chat=-1004381621399 media=True grouped=14321219529232981
+2026-09-23 14:04:01,898 | INFO | forwarder | user=7166943981 source message id=18 chat=-1004381621399 media=True grouped=14321219529232981
+2026-09-23 14:04:01,902 | INFO | forwarder | user=7166943981 source message id=19 chat=-1004381621399 media=True grouped=14321219529232981
+2026-09-23 14:04:01,910 | INFO | forwarder | user=7166943981 source message id=20 chat=-1004381621399 media=True grouped=14321219529232981
+2026-09-23 14:04:03,175 | INFO | forwarder | user=7166943981 forwarded count=6
+2026-09-23 14:04:10,311 | INFO | forwarder | user=7166943981 source message id=21 chat=-1004381621399 media=False grouped=None
+2026-09-23 14:04:10,311 | INFO | forwarder | user=7166943981 skipped text-only message id=21
+2026-09-23 14:04:21,588 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 14:04:24,366 | INFO | forwarder | user=7166943981 source message id=22 chat=-1004381621399 media=False grouped=None
+2026-09-23 14:04:24,366 | INFO | forwarder | user=7166943981 skipped text-only message id=22
+2026-09-23 14:04:38,675 | INFO | forwarder | user=7166943981 source message id=23 chat=-1004381621399 media=True grouped=None
+2026-09-23 14:04:38,961 | INFO | forwarder | user=7166943981 forwarded count=1
+2026-09-23 14:05:04,255 | INFO | telethon.client.updates | Got difference for channel 4434105740 updates
+2026-09-23 14:05:07,252 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.163:443/TcpFull...
+2026-09-23 14:05:07,252 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.163:443/TcpFull complete!
+2026-09-23 14:05:07,268 | INFO | telethon.network.mtprotosender | Not disconnecting (already have no connection)
+2026-09-23 14:05:09,072 | INFO | aiogram.event | Update id=337590186 is handled. Duration 1844 ms by bot id=8824170005
+2026-09-23 14:05:17,468 | INFO | aiogram.event | Update id=337590187 is not handled. Duration 1296 ms by bot id=8824170005
+2026-09-23 14:05:17,468 | ERROR | aiogram.event | Cause exception while process update id=337590187 by bot id=8824170005
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 321, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 200, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\app\controller.py", line 384, in stopf
+    await status(q)
+  File "C:\Users\archi\Desktop\public_forwarder\app\controller.py", line 368, in status
+    await q.message.edit_text(text, reply_markup=self.kb(q.from_user.id), parse_mode="HTML")
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\session\base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-09-23 14:05:22,081 | INFO | aiogram.event | Update id=337590188 is not handled. Duration 1030 ms by bot id=8824170005
+2026-09-23 14:05:22,081 | ERROR | aiogram.event | Cause exception while process update id=337590188 by bot id=8824170005
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 321, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 200, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\app\controller.py", line 368, in status
+    await q.message.edit_text(text, reply_markup=self.kb(q.from_user.id), parse_mode="HTML")
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\session\base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-09-23 14:05:42,458 | INFO | aiogram.event | Update id=337590189 is not handled. Duration 1030 ms by bot id=8824170005
+2026-09-23 14:05:42,458 | ERROR | aiogram.event | Cause exception while process update id=337590189 by bot id=8824170005
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 321, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 200, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\app\controller.py", line 368, in status
+    await q.message.edit_text(text, reply_markup=self.kb(q.from_user.id), parse_mode="HTML")
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\session\base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-09-23 14:05:49,930 | INFO | aiogram.event | Update id=337590190 is not handled. Duration 1375 ms by bot id=8824170005
+2026-09-23 14:05:49,930 | ERROR | aiogram.event | Cause exception while process update id=337590190 by bot id=8824170005
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 321, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 200, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\app\controller.py", line 384, in stopf
+    await status(q)
+  File "C:\Users\archi\Desktop\public_forwarder\app\controller.py", line 368, in status
+    await q.message.edit_text(text, reply_markup=self.kb(q.from_user.id), parse_mode="HTML")
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Desktop\public_forwarder\.venv\Lib\site-packages\aiogram\client\session\base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-09-23 14:05:57,536 | INFO | aiogram.event | Update id=337590191 is handled. Duration 625 ms by bot id=8824170005
+2026-09-24 15:08:25,496 | INFO | main | Public multi-user controller starting
+2026-09-24 15:08:25,498 | INFO | aiogram.dispatcher | Start polling
+2026-09-24 15:08:30,102 | INFO | aiogram.dispatcher | Run polling for bot @bakchodi_forwarder_bot id=8719549541 - 'Bakchodi Forwarder'
+2026-09-24 15:08:39,276 | INFO | aiogram.event | Update id=75420048 is handled. Duration 2577 ms by bot id=8719549541
+2026-09-24 15:08:49,905 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-24 15:08:49,907 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-09-24 15:08:49,907 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8719549541)
+2026-09-24 15:08:50,166 | INFO | aiogram.dispatcher | Polling stopped for bot @bakchodi_forwarder_bot id=8719549541 - 'Bakchodi Forwarder'
+2026-10-07 11:53:52,301 | INFO | main | Public multi-user controller starting
+2026-10-07 11:53:52,313 | INFO | aiogram.dispatcher | Start polling
+2026-10-07 11:53:53,386 | INFO | aiogram.dispatcher | Run polling for bot @forwardcunt_bot id=8824170005 - 'Forward Controller'
+2026-10-07 11:54:09,719 | INFO | aiogram.event | Update id=337590226 is handled. Duration 1030 ms by bot id=8824170005
+2026-10-07 11:54:12,774 | INFO | aiogram.event | Update id=337590227 is handled. Duration 1014 ms by bot id=8824170005
+2026-10-07 11:54:14,980 | INFO | aiogram.event | Update id=337590228 is handled. Duration 858 ms by bot id=8824170005
+2026-10-07 11:54:25,812 | INFO | telethon.network.mtprotosender | Connecting to 149.154.167.51:443/TcpFull...
+2026-10-07 11:54:29,252 | INFO | telethon.network.mtprotosender | Connection to 149.154.167.51:443/TcpFull complete!
+2026-10-07 11:54:30,661 | INFO | telethon.client.users | Phone migrated to 5
+2026-10-07 11:54:31,012 | INFO | telethon.client.telegrambaseclient | Reconnecting to new data center 5
+2026-10-07 11:54:31,336 | INFO | telethon.network.mtprotosender | Disconnecting from 149.154.167.51:443/TcpFull...
+2026-10-07 11:54:31,336 | INFO | telethon.network.mtprotosender | Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-10-07 11:54:31,336 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.163:443/TcpFull...
+2026-10-07 11:54:32,928 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.163:443/TcpFull complete!
+2026-10-07 11:54:34,620 | INFO | aiogram.event | Update id=337590229 is handled. Duration 8811 ms by bot id=8824170005
+2026-10-07 11:54:41,847 | INFO | aiogram.event | Update id=337590230 is handled. Duration 905 ms by bot id=8824170005
+2026-10-07 11:54:44,372 | INFO | aiogram.event | Update id=337590231 is handled. Duration 1016 ms by bot id=8824170005
+2026-10-07 11:54:46,522 | INFO | aiogram.event | Update id=337590232 is handled. Duration 952 ms by bot id=8824170005
+2026-10-07 11:54:48,274 | INFO | aiogram.event | Update id=337590233 is handled. Duration 922 ms by bot id=8824170005
+2026-10-07 11:54:51,093 | INFO | aiogram.event | Update id=337590234 is handled. Duration 1672 ms by bot id=8824170005
+2026-10-07 11:54:52,198 | INFO | aiogram.event | Update id=337590235 is handled. Duration 969 ms by bot id=8824170005
+2026-10-07 11:54:55,042 | INFO | aiogram.event | Update id=337590236 is handled. Duration 1313 ms by bot id=8824170005
+2026-10-07 11:55:12,865 | INFO | aiogram.event | Update id=337590237 is handled. Duration 891 ms by bot id=8824170005
+2026-10-07 11:55:14,740 | INFO | aiogram.event | Update id=337590238 is handled. Duration 858 ms by bot id=8824170005
+2026-10-07 11:55:16,564 | INFO | aiogram.event | Update id=337590239 is handled. Duration 858 ms by bot id=8824170005
+2026-10-07 11:55:19,077 | INFO | aiogram.event | Update id=337590240 is handled. Duration 1500 ms by bot id=8824170005
+2026-10-07 11:55:21,738 | INFO | aiogram.event | Update id=337590241 is handled. Duration 891 ms by bot id=8824170005
+2026-10-07 11:55:23,834 | INFO | aiogram.event | Update id=337590242 is handled. Duration 1188 ms by bot id=8824170005
+2026-10-07 11:55:29,187 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.163:443/TcpFull...
+2026-10-07 11:55:29,187 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.163:443/TcpFull complete!
+2026-10-07 11:55:29,187 | INFO | controller | user 6153634910 connected Telegram account id=6153634910
+2026-10-07 11:55:29,644 | INFO | aiogram.event | Update id=337590243 is handled. Duration 1750 ms by bot id=8824170005
+2026-10-07 11:55:45,347 | INFO | aiogram.event | Update id=337590244 is handled. Duration 889 ms by bot id=8824170005
+2026-10-07 11:55:48,894 | INFO | aiogram.event | Update id=337590245 is handled. Duration 1592 ms by bot id=8824170005
+2026-10-07 11:55:50,174 | INFO | aiogram.event | Update id=337590246 is handled. Duration 500 ms by bot id=8824170005
+2026-10-07 11:56:01,201 | INFO | aiogram.event | Update id=337590247 is handled. Duration 889 ms by bot id=8824170005
+2026-10-07 11:56:26,175 | INFO | aiogram.event | Update id=337590248 is handled. Duration 922 ms by bot id=8824170005
+2026-10-07 11:56:30,162 | INFO | aiogram.event | Update id=337590249 is handled. Duration 516 ms by bot id=8824170005
+2026-10-07 11:56:35,135 | INFO | aiogram.event | Update id=337590250 is handled. Duration 891 ms by bot id=8824170005
+2026-10-07 11:56:48,397 | INFO | aiogram.event | Update id=337590251 is handled. Duration 452 ms by bot id=8824170005
+2026-10-07 11:56:52,594 | INFO | aiogram.event | Update id=337590252 is handled. Duration 483 ms by bot id=8824170005
+2026-10-07 11:56:54,272 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.163:443/TcpFull...
+2026-10-07 11:56:54,373 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.163:443/TcpFull complete!
+2026-10-07 11:56:55,649 | INFO | forwarder | user=6153634910 forwarder running
+2026-10-07 11:56:57,017 | INFO | aiogram.event | Update id=337590253 is handled. Duration 3280 ms by bot id=8824170005
+2026-10-07 11:56:59,191 | INFO | aiogram.event | Update id=337590254 is handled. Duration 1280 ms by bot id=8824170005
+2026-10-07 11:57:05,093 | INFO | aiogram.event | Update id=337590255 is handled. Duration 938 ms by bot id=8824170005
+2026-10-07 11:57:15,598 | INFO | aiogram.event | Update id=337590256 is handled. Duration 905 ms by bot id=8824170005
+2026-10-07 11:57:19,616 | INFO | aiogram.event | Update id=337590257 is handled. Duration 469 ms by bot id=8824170005
+2026-10-07 11:57:50,225 | INFO | aiogram.event | Update id=337590258 is handled. Duration 967 ms by bot id=8824170005
+2026-10-07 11:57:54,477 | INFO | aiogram.event | Update id=337590259 is handled. Duration 875 ms by bot id=8824170005
+2026-10-07 11:57:57,533 | INFO | aiogram.event | Update id=337590260 is handled. Duration 922 ms by bot id=8824170005
+2026-10-07 11:58:05,412 | INFO | aiogram.event | Update id=337590261 is handled. Duration 1452 ms by bot id=8824170005
+2026-10-07 11:58:10,114 | INFO | aiogram.event | Update id=337590262 is handled. Duration 2969 ms by bot id=8824170005
+2026-10-07 11:58:11,752 | INFO | aiogram.event | Update id=337590263 is handled. Duration 2077 ms by bot id=8824170005
+2026-10-07 11:58:18,880 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.163:443/TcpFull...
+2026-10-07 11:58:19,018 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.163:443/TcpFull complete!
+2026-10-07 11:58:20,534 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.163:443/TcpFull...
+2026-10-07 11:58:20,534 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.163:443/TcpFull complete!
+2026-10-07 11:58:20,534 | INFO | aiogram.event | Update id=337590264 is handled. Duration 2077 ms by bot id=8824170005
+2026-10-07 11:58:33,158 | INFO | aiogram.event | Update id=337590265 is handled. Duration 858 ms by bot id=8824170005
+2026-10-07 11:58:35,784 | INFO | aiogram.event | Update id=337590266 is handled. Duration 938 ms by bot id=8824170005
+2026-10-07 11:58:38,649 | INFO | aiogram.event | Update id=337590267 is handled. Duration 1717 ms by bot id=8824170005
+2026-10-07 11:58:43,757 | INFO | aiogram.event | Update id=337590268 is handled. Duration 452 ms by bot id=8824170005
+2026-10-07 11:58:46,964 | INFO | aiogram.event | Update id=337590269 is handled. Duration 563 ms by bot id=8824170005
+2026-10-07 11:58:50,013 | INFO | aiogram.event | Update id=337590270 is handled. Duration 1702 ms by bot id=8824170005
+2026-10-07 11:58:59,422 | INFO | aiogram.event | Update id=337590271 is handled. Duration 860 ms by bot id=8824170005
+2026-10-07 12:03:44,940 | INFO | aiogram.dispatcher | Polling stopped
+2026-10-07 12:03:44,946 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-10-07 12:03:44,946 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8824170005)
+2026-10-07 12:03:45,202 | INFO | aiogram.dispatcher | Polling stopped for bot @forwardcunt_bot id=8824170005 - 'Forward Controller'
+2026-10-07 12:03:45,204 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.163:443/TcpFull...
+2026-10-07 12:03:45,204 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.163:443/TcpFull complete!
+2026-10-07 12:04:07,983 | INFO | main | Public multi-user controller starting
+2026-10-07 12:04:07,983 | INFO | aiogram.dispatcher | Start polling
+2026-10-07 12:04:09,042 | INFO | aiogram.dispatcher | Run polling for bot @forwardcunt_bot id=8824170005 - 'Forward Controller'
+2026-10-07 12:04:23,618 | INFO | aiogram.event | Update id=337590272 is handled. Duration 1125 ms by bot id=8824170005
+2026-10-07 12:04:30,929 | INFO | aiogram.event | Update id=337590273 is handled. Duration 922 ms by bot id=8824170005
+2026-10-07 12:04:39,464 | INFO | aiogram.event | Update id=337590274 is handled. Duration 610 ms by bot id=8824170005
+2026-10-07 12:04:41,584 | INFO | aiogram.event | Update id=337590275 is handled. Duration 530 ms by bot id=8824170005
+2026-10-07 12:04:43,675 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.163:443/TcpFull...
+2026-10-07 12:04:43,772 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.163:443/TcpFull complete!
+2026-10-07 12:04:44,892 | INFO | forwarder | user=6153634910 forwarder running
+2026-10-07 12:04:46,569 | INFO | aiogram.event | Update id=337590276 is handled. Duration 3358 ms by bot id=8824170005
+2026-10-07 12:04:52,791 | INFO | aiogram.event | Update id=337590277 is handled. Duration 1108 ms by bot id=8824170005
+2026-10-07 12:06:27,086 | INFO | aiogram.event | Update id=337590278 is handled. Duration 485 ms by bot id=8824170005
+2026-10-07 12:06:48,898 | INFO | aiogram.event | Update id=337590279 is handled. Duration 547 ms by bot id=8824170005
+2026-10-07 12:06:53,310 | INFO | aiogram.event | Update id=337590280 is handled. Duration 1813 ms by bot id=8824170005
+2026-10-07 12:07:02,052 | INFO | aiogram.event | Update id=337590281 is handled. Duration 469 ms by bot id=8824170005
+2026-10-07 12:10:47,520 | INFO | aiogram.dispatcher | Polling stopped
+2026-10-07 12:10:47,520 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-10-07 12:10:47,520 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8824170005)
+2026-10-07 12:10:47,801 | INFO | aiogram.dispatcher | Polling stopped for bot @forwardcunt_bot id=8824170005 - 'Forward Controller'
+2026-10-07 12:10:47,801 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.163:443/TcpFull...
+2026-10-07 12:10:47,801 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.163:443/TcpFull complete!
+2026-10-07 12:12:46,692 | INFO | main | Public multi-user controller starting
+2026-10-07 12:12:46,692 | INFO | aiogram.dispatcher | Start polling
+2026-10-07 12:12:47,470 | INFO | aiogram.dispatcher | Run polling for bot @forwardcunt_bot id=8824170005 - 'Forward Controller'
+2026-10-07 12:13:00,749 | INFO | aiogram.event | Update id=337590282 is handled. Duration 1016 ms by bot id=8824170005
+2026-10-07 12:13:04,836 | INFO | aiogram.event | Update id=337590283 is handled. Duration 905 ms by bot id=8824170005
+2026-10-07 12:13:16,325 | INFO | aiogram.event | Update id=337590284 is handled. Duration 469 ms by bot id=8824170005
+2026-10-07 12:13:21,888 | INFO | aiogram.event | Update id=337590285 is handled. Duration 485 ms by bot id=8824170005
+2026-10-07 12:13:24,468 | INFO | aiogram.event | Update id=337590286 is not handled. Duration 985 ms by bot id=8824170005
+2026-10-07 12:13:24,468 | ERROR | aiogram.event | Cause exception while process update id=337590286 by bot id=8824170005
+NameError: name 'asyncio' is not defined
+Traceback (most recent call last):
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 321, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 200, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\archi\Downloads\forwarder-main-old-media-fixed\app\controller.py", line 503, in startf
+    asyncio.create_task(_start_and_report(q, uid))
+    ^^^^^^^
+NameError: name 'asyncio' is not defined
+2026-10-07 12:13:34,049 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 64] The specified network name is no longer available
+2026-10-07 12:13:34,049 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8824170005)
+2026-10-07 12:13:45,425 | INFO | aiogram.dispatcher | Connection established (tryings = 1, bot id = 8824170005)
+2026-10-07 12:16:29,848 | INFO | aiogram.dispatcher | Polling stopped
+2026-10-07 12:16:29,848 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-10-07 12:16:29,848 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8824170005)
+2026-10-07 12:16:30,113 | INFO | aiogram.dispatcher | Polling stopped for bot @forwardcunt_bot id=8824170005 - 'Forward Controller'
+2026-10-07 12:26:08,244 | INFO | main | Public multi-user controller starting
+2026-10-07 12:26:08,244 | INFO | aiogram.dispatcher | Start polling
+2026-10-07 12:26:09,577 | INFO | aiogram.dispatcher | Run polling for bot @forwardcunt_bot id=8824170005 - 'Forward Controller'
+2026-10-07 12:26:19,159 | INFO | aiogram.event | Update id=337590287 is handled. Duration 1047 ms by bot id=8824170005
+2026-10-07 12:26:24,368 | INFO | aiogram.event | Update id=337590288 is handled. Duration 952 ms by bot id=8824170005
+2026-10-07 12:26:24,368 | INFO | controller | user=6153634910 start requested
+2026-10-07 12:26:24,377 | INFO | forwarder | user=6153634910 connecting Telethon client
+2026-10-07 12:26:24,377 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.163:443/TcpFull...
+2026-10-07 12:26:24,498 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.163:443/TcpFull complete!
+2026-10-07 12:26:25,194 | INFO | forwarder | user=6153634910 Telegram connected account_id=6153634910
+2026-10-07 12:26:25,194 | INFO | forwarder | user=6153634910 resolving source=-1004286868993
+2026-10-07 12:26:25,407 | INFO | forwarder | user=6153634910 source ready ref=-1004286868993 peer_id=-1004286868993
+2026-10-07 12:26:25,407 | INFO | forwarder | user=6153634910 resolving destination=-1004495417580
+2026-10-07 12:26:25,665 | INFO | forwarder | user=6153634910 destination ready ref=-1004495417580 peer_id=-1004495417580
+2026-10-07 12:26:25,665 | INFO | forwarder | user=6153634910 forwarder running sources=1 destinations=1
+2026-10-07 12:26:25,665 | INFO | controller | user=6153634910 start completed
+2026-10-07 12:26:38,121 | INFO | aiogram.event | Update id=337590289 is handled. Duration 1233 ms by bot id=8824170005
+2026-10-07 12:26:47,833 | INFO | aiogram.event | Update id=337590290 is handled. Duration 452 ms by bot id=8824170005
+2026-10-07 12:26:51,725 | INFO | aiogram.event | Update id=337590291 is handled. Duration 453 ms by bot id=8824170005
+2026-10-07 12:26:54,410 | INFO | aiogram.event | Update id=337590292 is handled. Duration 922 ms by bot id=8824170005
+2026-10-07 12:26:54,410 | INFO | controller | user=6153634910 start requested
+2026-10-07 12:26:54,410 | INFO | controller | user=6153634910 start completed
+2026-10-07 12:27:07,972 | INFO | aiogram.event | Update id=337590293 is handled. Duration 1000 ms by bot id=8824170005
+2026-10-07 12:30:29,214 | INFO | aiogram.dispatcher | Polling stopped
+2026-10-07 12:30:29,216 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-10-07 12:30:29,216 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8824170005)
+2026-10-07 12:30:29,471 | INFO | aiogram.dispatcher | Polling stopped for bot @forwardcunt_bot id=8824170005 - 'Forward Controller'
+2026-10-07 12:30:29,471 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.163:443/TcpFull...
+2026-10-07 12:30:29,472 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.163:443/TcpFull complete!
+2026-10-07 12:32:12,139 | INFO | main | Public multi-user controller starting
+2026-10-07 12:32:12,139 | INFO | aiogram.dispatcher | Start polling
+2026-10-07 12:32:13,014 | INFO | aiogram.dispatcher | Run polling for bot @forwardcunt_bot id=8824170005 - 'Forward Controller'
+2026-10-07 12:32:29,557 | INFO | controller | user=6153634910 start requested
+2026-10-07 12:32:29,560 | INFO | forwarder | user=6153634910 connecting Telethon client
+2026-10-07 12:32:29,561 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.163:443/TcpFull...
+2026-10-07 12:32:29,669 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.163:443/TcpFull complete!
+2026-10-07 12:32:30,425 | INFO | forwarder | user=6153634910 Telegram connected account_id=6153634910
+2026-10-07 12:32:30,427 | INFO | forwarder | user=6153634910 resolving source=-1004286868993
+2026-10-07 12:32:30,685 | INFO | forwarder | user=6153634910 source ready ref=-1004286868993 peer_id=-1004286868993
+2026-10-07 12:32:30,685 | INFO | forwarder | user=6153634910 resolving destination=-1004495417580
+2026-10-07 12:32:30,933 | INFO | forwarder | user=6153634910 destination ready ref=-1004495417580 peer_id=-1004495417580
+2026-10-07 12:32:30,933 | INFO | forwarder | user=6153634910 forwarder running sources=1 destinations=1
+2026-10-07 12:32:30,939 | INFO | controller | user=6153634910 start completed
+2026-10-07 12:32:31,525 | INFO | aiogram.event | Update id=337590294 is handled. Duration 3389 ms by bot id=8824170005
+2026-10-07 12:32:37,910 | INFO | aiogram.event | Update id=337590295 is handled. Duration 953 ms by bot id=8824170005
+2026-10-07 12:32:43,873 | INFO | aiogram.event | Update id=337590296 is handled. Duration 452 ms by bot id=8824170005
+2026-10-07 12:32:47,835 | INFO | aiogram.event | Update id=337590297 is handled. Duration 452 ms by bot id=8824170005
+2026-10-07 12:32:47,835 | INFO | controller | user=6153634910 old media requested link=https://t.me/c/4286868993/46117 count=110
+2026-10-07 12:32:47,975 | INFO | forwarder | user=6153634910 old media request source=-1004286868993 start=46117 count=110
+2026-10-07 12:32:49,143 | INFO | forwarder | user=6153634910 forwarded count=2 destination=-1004495417580
+2026-10-07 12:32:49,637 | INFO | forwarder | user=6153634910 forwarded count=2 destination=-1004495417580
+2026-10-07 12:32:50,149 | INFO | forwarder | user=6153634910 forwarded count=2 destination=-1004495417580
+2026-10-07 12:32:50,793 | INFO | forwarder | user=6153634910 forwarded count=2 destination=-1004495417580
+2026-10-07 12:32:51,289 | INFO | forwarder | user=6153634910 forwarded count=2 destination=-1004495417580
+2026-10-07 12:32:51,717 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:32:52,149 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:32:52,590 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:32:53,070 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:32:53,597 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:32:54,076 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:32:54,548 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:32:55,020 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:32:55,438 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:32:55,924 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:32:56,414 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:32:56,888 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:32:57,358 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:32:57,880 | INFO | forwarder | user=6153634910 forwarded count=3 destination=-1004495417580
+2026-10-07 12:32:58,698 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:32:59,439 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:00,334 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:00,943 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:01,550 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:02,400 | INFO | forwarder | user=6153634910 forwarded count=4 destination=-1004495417580
+2026-10-07 12:33:03,544 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:04,489 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:04,800 | INFO | aiogram.event | Update id=337590298 is handled. Duration 2453 ms by bot id=8824170005
+2026-10-07 12:33:04,953 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:05,877 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:06,369 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:07,193 | INFO | forwarder | user=6153634910 forwarded count=5 destination=-1004495417580
+2026-10-07 12:33:07,845 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:08,435 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:08,949 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:09,450 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:10,043 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:10,666 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:11,129 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:11,602 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:12,066 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:12,570 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:13,113 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:13,704 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:14,155 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:14,751 | INFO | forwarder | user=6153634910 forwarded count=2 destination=-1004495417580
+2026-10-07 12:33:15,448 | INFO | forwarder | user=6153634910 forwarded count=3 destination=-1004495417580
+2026-10-07 12:33:16,138 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:16,682 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:17,204 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:17,667 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:18,240 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:18,882 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:19,402 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:20,016 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:20,535 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:21,103 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:21,584 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:22,191 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:22,773 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:23,229 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:23,796 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:24,299 | INFO | forwarder | user=6153634910 forwarded count=2 destination=-1004495417580
+2026-10-07 12:33:24,771 | INFO | forwarder | user=6153634910 forwarded count=2 destination=-1004495417580
+2026-10-07 12:33:25,291 | INFO | forwarder | user=6153634910 forwarded count=3 destination=-1004495417580
+2026-10-07 12:33:25,778 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:26,307 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:26,827 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:27,294 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:27,805 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:28,317 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:29,054 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:29,544 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:30,070 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:30,702 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:31,482 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:32,322 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:32,986 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:33,442 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:34,390 | INFO | forwarder | user=6153634910 forwarded count=4 destination=-1004495417580
+2026-10-07 12:33:34,911 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:35,440 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:36,033 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:36,472 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:36,936 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:37,451 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:38,008 | INFO | forwarder | user=6153634910 forwarded count=1 destination=-1004495417580
+2026-10-07 12:33:38,261 | INFO | forwarder | user=6153634910 old media completed requested=110 found=110
+2026-10-07 12:33:38,787 | INFO | controller | user=6153634910 old media completed forwarded=110
+2026-10-07 12:36:17,898 | INFO | aiogram.dispatcher | Polling stopped
+2026-10-07 12:36:17,898 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-10-07 12:36:17,898 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8824170005)
+2026-10-07 12:36:18,162 | INFO | aiogram.dispatcher | Polling stopped for bot @forwardcunt_bot id=8824170005 - 'Forward Controller'
+2026-10-07 12:36:18,162 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.163:443/TcpFull...
+2026-10-07 12:36:18,162 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.163:443/TcpFull complete!
